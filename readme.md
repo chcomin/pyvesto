@@ -1,6 +1,7 @@
 # Python Blood Vessel Topology Analysis
 
-*This repository is not being updated anymore. The new version of PyVesTo is called PyVaNe and is available at [https://github.com/chcomin/pyvane](https://github.com/chcomin/pyvane)
+**This repository is not being updated anymore. The new version of PyVesTo is called PyVaNe and is available at [https://github.com/chcomin/pyvane](https://github.com/chcomin/pyvane)**
+
 
 ![Example](docs/readme_imgs/video.gif)
 
