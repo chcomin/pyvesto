@@ -1,5 +1,7 @@
 # Python Blood Vessel Topology Analysis
 
+*This repository is not being updated anymore. The new version of PyVesTo is called PyVaNe and is available at [https://github.com/chcomin/pyvane](https://github.com/chcomin/pyvane)
+
 ![Example](docs/readme_imgs/video.gif)
 
 **Py**thon Blood **Ves**sel **To**pology Analysis (PyVesTo) is a framework for analysing blood vessel digital images. This includes the segmentation, representation and characterization of blood vessels. The framework identifies 2D and 3D vascular systems and represent them using graphs. The graphs describe the **topology** of the blood vessels, that is, bifurcations and terminations are represented as nodes and two nodes are connected if there is a blood vessel segment between them.
